@@ -1,0 +1,46 @@
+//declarando variavel
+var num1 = 42;
+var num2 = 2;
+
+var resultadoSoma = num1+num2;
+
+//imprimindo na tela
+console.log("Soma: " + resultadoSoma);
+console.log("Soma " + num1 + " + " + num2 + " = " + resultadoSoma);
+
+console.log("Parabens pela sua soma: " + resultadoSoma);
+
+//atualizando valor variavel
+num1 = 40;
+
+//declarando variavel e recebendo valor pelo teclado
+var nome = prompt("Digite o seu nome:");
+console.log(nome);
+
+//converter valor do teclado para número inteiro
+var num1 = parseInt(prompt("Digite o 1º número"));
+var num2 = parseInt(prompt("Digite o 2º número"));
+
+var resultadoSoma = num1 + num2;
+
+console.log(resultadoSoma);
+
+//converter valor do teclado para número real
+var numPeso = parseFloat(prompt("Digite o seu peso"));
+
+console.log(numPeso);
+
+var nome = prompt("Digite o seu nome:");
+var idade = parseInt(prompt("Digite a sua idade:"));
+var peso = parseFloat(prompt("Digite o seu peso:"));
+
+console.log("Olá " + nome + ", você tem " + idade + " anos. Você pesa " + peso + " Kg.");
+
+//Exemplo de operação com números setados pelo usuário através do teclado
+var num1 = parseInt(prompt("Digite o 1º número:"));
+var num2 = parseInt(prompt("Digite o 2º número:"));
+
+console.log("Soma = " + (num1+num2));
+
+var resultadoSoma = num1 + num2;
+console.log("Soma = " + resultadoSoma);
