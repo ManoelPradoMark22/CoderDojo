@@ -1,0 +1,18 @@
+//Adição 
+console.log(10+10);
+
+//Multiplicação
+console.log(10*10);
+
+//Subtração 
+console.log(10-10);
+
+//Divisão 
+console.log(10/10);
+
+//POTÊNCIA
+console.log(2**3);
+
+//RADICIAÇÃO (raíz)
+console.log(Math.sqrt(25));
+console.log(25**(1/2));
