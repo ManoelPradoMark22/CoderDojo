@@ -1,0 +1,29 @@
+function Triplo(num) {
+  var resultadoTriplo = num*3;
+  return resultadoTriplo;
+}
+
+function Dobrar(num) {
+  console.log("O dobro de " + num + " é: " + (num*2));
+}
+
+function Multiplicacao(a, b) {
+  console.log("Multiplicacao: " + (a*b));
+}
+
+function Soma(num1, num2) {
+  console.log("Soma:" + (num1+num2));
+}
+
+var num1 = parseInt(prompt("Digite o primeiro número: "));
+var num2 = parseInt(prompt("Digite o segundo número: "));
+
+Soma(num1, num2);
+Multiplicacao(num1, num2);
+Dobrar(num1);
+Dobrar(num2);
+
+console.log("O triplo de " + num1 + " é: " + Triplo(num1));
+
+
+
