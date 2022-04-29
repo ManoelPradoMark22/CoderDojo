@@ -3,5 +3,5 @@
 # CoderDojo - Trabalho voluntário
 ### Ensinando JavaScript para crianças de 14 a 16 anos de escolas públicas de Recife-PE (como facilitador) e de São Paulo-SP (como sensei).
 
-Resumo aula sobre Variáveis: <a href="https://youtu.be/rNHdzwUnTOw">(clique aqui)</a>
+Resumo aula sobre Variáveis: <a href="https://youtu.be/rNHdzwUnTOw">(clique aqui)</a> <br>
 Resumo aula sobre Funções: <a href="https://youtu.be/p8umV1CQ5kU">(clique aqui)</a>
